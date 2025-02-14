@@ -1,7 +1,6 @@
-dash
+streamlit
 plotly
-pandas
 numpy
+pandas
 seaborn
 matplotlib
-gunicorn
